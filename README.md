@@ -1,4 +1,4 @@
-# Contract Killer 3
+Contract Killer 3
 =================
  
 Revised date: 07/11/2012 
